@@ -1,2 +1,3 @@
 # hello_world
-Test repository to learn how to use git and github
+Hello humans,
+We are now diving head first into a world of amazing adventure. Buckle up your seat belts and stay calm. Enjoy the ride!
